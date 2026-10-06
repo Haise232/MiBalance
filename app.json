@@ -1,0 +1,71 @@
+{
+  "expo": {
+    "name": "MiBalance",
+    "slug": "mibalance",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/logo/Logo.jpeg",
+    "scheme": "mibalance",
+    "userInterfaceStyle": "automatic",
+    "newArchEnabled": true,
+    "updates": {
+      "url": "https://u.expo.dev/d473874d-0b14-448a-97a8-fcec962a12ae",
+      "enabled": true,
+      "checkAutomatically": "ON_LOAD",
+      "fallbackToCacheTimeout": 0
+    },
+    "runtimeVersion": {
+      "policy": "appVersion"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#ffffff",
+        "foregroundImage": "./assets/logo/Logo.jpeg"
+      },
+      "edgeToEdgeEnabled": true,
+      "softwareKeyboardLayoutMode": "resize",
+      "predictiveBackGestureEnabled": false,
+      "package": "com.haise1298.mibalance"
+    },
+    "web": {
+      "name": "MiBalance",
+      "shortName": "MiBalance",
+      "description": "Controla tus ingresos, gastos, deudas y suscripciones en un solo lugar.",
+      "themeColor": "#eff2ec",
+      "backgroundColor": "#eff2ec",
+      "output": "single",
+      "favicon": "./assets/images/favicon.png"
+    },
+    "plugins": [
+      "expo-router",
+      [
+        "expo-splash-screen",
+        {
+          "image": "./assets/logo/Logo.jpeg",
+          "imageWidth": 200,
+          "resizeMode": "contain",
+          "backgroundColor": "#ffffff",
+          "dark": {
+            "backgroundColor": "#000000"
+          }
+        }
+      ],
+      "@react-native-community/datetimepicker",
+      "expo-font"
+    ],
+    "experiments": {
+      "typedRoutes": true,
+      "reactCompiler": false
+    },
+    "extra": {
+      "router": {},
+      "eas": {
+        "projectId": "d473874d-0b14-448a-97a8-fcec962a12ae"
+      }
+    },
+    "owner": "haise1298"
+  }
+}

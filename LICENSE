@@ -1,0 +1,129 @@
+miBalance - Proprietary License / Licencia Propietaria
+Copyright (c) 2026 Haise232. All rights reserved. / Todos los derechos reservados.
+
+================================================================================
+ESPAÑOL
+================================================================================
+
+Este repositorio es público únicamente para que pueda ser visto. Que el código
+sea visible NO es una licencia de código abierto ni una cesión de derechos.
+
+1. TITULARIDAD
+   El software "miBalance", incluyendo su código fuente, diseño, interfaz,
+   textos, logotipos, imágenes, esquemas de base de datos y documentación
+   (el "Software"), es propiedad de Haise232 (el "Titular"). Todos los
+   derechos que no se concedan expresamente aquí quedan reservados.
+
+2. PERMISOS CONCEDIDOS (LIMITADOS)
+   Se te concede una licencia personal, revocable, no exclusiva, no
+   transferible y sin derecho de sublicencia, únicamente para:
+   a) ver y leer el código fuente en este repositorio (incluido el uso de
+      las funciones de visualización y fork de GitHub, solo en la medida en
+      que los Términos de Servicio de GitHub lo permitan); y
+   b) evaluarlo con fines personales, no comerciales y de aprendizaje, sin
+      ponerlo a disposición de terceros.
+
+3. PROHIBICIONES
+   Sin autorización previa y por escrito del Titular, NO puedes:
+   a) copiar, reproducir o reutilizar total o parcialmente el Software;
+   b) modificar, adaptar, traducir o crear obras derivadas;
+   c) distribuir, publicar, sublicenciar, vender, alquilar o prestar el
+      Software o cualquier parte de él, ni publicar copias o forks con
+      fines distintos a los de la sección 2;
+   d) usarlo con fines comerciales, ni ofrecerlo como servicio, ni
+      compilarlo o publicarlo en tiendas de aplicaciones;
+   e) usar el nombre "miBalance", sus logotipos o su identidad visual;
+   f) eliminar o alterar avisos de copyright o de esta licencia;
+   g) usar el Software o su contenido para entrenar modelos de inteligencia
+      artificial ni para extracción masiva de datos.
+
+4. COMPONENTES DE TERCEROS
+   Las dependencias de terceros se rigen por sus propias licencias (ver
+   docs/LICENCIAS_TERCEROS.md). Esta licencia no modifica ni restringe los
+   derechos que esas licencias te otorgan sobre dichos componentes.
+
+5. SIN GARANTÍA
+   EL SOFTWARE SE ENTREGA "TAL CUAL", SIN GARANTÍA DE NINGÚN TIPO, EXPRESA O
+   IMPLÍCITA, INCLUIDAS LAS DE COMERCIABILIDAD, IDONEIDAD PARA UN FIN
+   PARTICULAR Y NO INFRACCIÓN. EL TITULAR NO SERÁ RESPONSABLE DE NINGÚN DAÑO
+   O RECLAMACIÓN DERIVADOS DEL SOFTWARE O DE SU USO, EN LA MÁXIMA MEDIDA
+   PERMITIDA POR LA LEY APLICABLE.
+
+6. TERMINACIÓN
+   Esta licencia termina automáticamente si incumples cualquiera de sus
+   términos. Al terminar, debes dejar de usar el Software y eliminar las
+   copias que tengas.
+
+7. DISPOSICIONES GENERALES
+   Si alguna cláusula fuese inválida o inaplicable, el resto seguirá en
+   vigor. Las limitaciones de responsabilidad se aplican solo hasta donde la
+   ley lo permita; no afectan derechos irrenunciables del consumidor.
+
+8. CONTACTO Y PERMISOS
+   Para solicitar permiso, licencias comerciales o reportar usos indebidos,
+   abre un issue en el repositorio.
+
+================================================================================
+ENGLISH
+================================================================================
+
+This repository is public for viewing only. Source code being visible is NOT
+an open-source license and does NOT transfer any rights.
+
+1. OWNERSHIP
+   The "miBalance" software, including its source code, design, user
+   interface, texts, logos, images, database schemas and documentation (the
+   "Software"), is owned by Haise232 (the "Owner"). All rights not expressly
+   granted herein are reserved.
+
+2. LIMITED GRANT
+   You are granted a personal, revocable, non-exclusive, non-transferable,
+   non-sublicensable license solely to:
+   a) view and read the source code in this repository (including use of
+      GitHub's viewing and forking features, only to the extent GitHub's
+      Terms of Service allow it); and
+   b) evaluate it for personal, non-commercial, learning purposes, without
+      making it available to third parties.
+
+3. RESTRICTIONS
+   Without the Owner's prior written permission, you may NOT:
+   a) copy, reproduce or reuse the Software in whole or in part;
+   b) modify, adapt, translate or create derivative works;
+   c) distribute, publish, sublicense, sell, rent or lend the Software or
+      any part of it, or publish copies or forks for any purpose other than
+      those in section 2;
+   d) use it commercially, offer it as a service, or build and publish it on
+      any app store;
+   e) use the name "miBalance", its logos or its visual identity;
+   f) remove or alter copyright or license notices;
+   g) use the Software or its content to train artificial intelligence
+      models or for bulk data extraction.
+
+4. THIRD-PARTY COMPONENTS
+   Third-party dependencies are governed by their own licenses (see
+   docs/LICENCIAS_TERCEROS.md). This license does not modify or restrict the
+   rights those licenses grant you in those components.
+
+5. NO WARRANTY
+   THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+   IMPLIED, INCLUDING WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR
+   PURPOSE AND NON-INFRINGEMENT. THE OWNER SHALL NOT BE LIABLE FOR ANY CLAIM
+   OR DAMAGES ARISING FROM THE SOFTWARE OR ITS USE, TO THE MAXIMUM EXTENT
+   PERMITTED BY APPLICABLE LAW.
+
+6. TERMINATION
+   This license terminates automatically if you breach any of its terms. Upon
+   termination you must stop using the Software and delete any copies.
+
+7. GENERAL
+   If any provision is invalid or unenforceable, the remainder stays in
+   effect. Liability limitations apply only as far as the law allows and do
+   not affect non-waivable consumer rights.
+
+8. CONTACT AND PERMISSIONS
+   To request permission, commercial licensing, or to report misuse, open an
+   issue in the repository.
+
+In case of discrepancy between the two versions, the Spanish version prevails
+/ En caso de discrepancia entre ambas versiones, prevalece la versión en
+español.
